@@ -1,0 +1,6 @@
+#include "TextDecompress.h"
+#include "TextCompress.h"
+#include "BinaryDecompress.h"
+#include "BinaryCompress.h"
+#include "Print.h"
+#include "Compare.h"

@@ -1,0 +1,3 @@
+/home/rocky/Desktop/Zipper/build/CMakeFiles/rebuild_cache.dir
+/home/rocky/Desktop/Zipper/build/CMakeFiles/edit_cache.dir
+/home/rocky/Desktop/Zipper/build/CMakeFiles/zipper.dir
