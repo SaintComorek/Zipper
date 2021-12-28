@@ -1,5 +1,8 @@
 Program dokáže komprimovať a dekomprimovať textové či binárne súbory. TXT -> BIN  , TXT <- BIN
 
+GIT ODKAZ:  https://github.com/SaintComorek/Zipper/tree/master
+			https://github.com/SaintComorek/Zipper/tree/main
+
 -Vstupným argumentom funkcii je názov vstupného a výstupného súboru.
 
 Textová Komprimácia funguje na základe prechádzania súboru a porovnávania znaku s nasledujúcim znakom , kedy v prípade zhody premenná count zväčší o 1 a v prípade, že znak je v súbore zapísaný viac ako 9 krát 

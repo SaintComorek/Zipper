@@ -6,7 +6,7 @@ void Binary_Compress(const char* input_name ,const char* output_name)
     FILE* input = fopen(input_name , "r");
     FILE* output = fopen(output_name , "wb");
 
-    char count = 1;
+    uint8_t count = 1;
 
     char First_Sign;
     char Second_Sign;
